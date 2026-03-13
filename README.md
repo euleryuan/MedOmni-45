@@ -1,4 +1,4 @@
-# MedOmni-45°: A Safety-Performance Benchmark for Reasoning-Oriented LLMs in Medicine (AAAO 2026)
+# MedOmni-45°: A Safety-Performance Benchmark for Reasoning-Oriented LLMs in Medicine (AAAI 2026)
 
 [![Paper](https://img.shields.io/badge/Paper-AAAI%202026-blue)](#) [![Dataset](https://img.shields.io/badge/Dataset-Coming%20Soon-orange)](#)
 [![Code](https://img.shields.io/badge/Code-Coming%20Soon-green)](#)
